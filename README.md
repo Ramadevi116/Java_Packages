@@ -1,2 +1,2 @@
 # Java_Packages
-## javac -d . filename
+## javac -d . filename.java
